@@ -1,4 +1,4 @@
-# Saf Java Web Sunucusu
+#  Java Web Sunucusu
 
 Bu proje, herhangi bir 3. parti kütüphane veya framework kullanılmadan, tamamen standart Java kütüphaneleri (`java.net` ve `java.io`) kullanılarak geliştirilmiş bir Socket tabanlı web sunucusudur.
 
